@@ -47,7 +47,7 @@ The aim is to design and simulate a full custom 2:1 multiplexer (MUX) using Cade
 
 
 ### 2. Schematic of Full Custom 2:1 MUX
-![image](https://github.com/user-attachments/assets/fad48301-9ca0-43a4-99e4-99bc06c98720)
+![Screenshot 2025-03-22 144334](https://github.com/user-attachments/assets/b895ba33-1c63-4510-a188-78997dbddb01)
 
 
 
@@ -60,7 +60,7 @@ The aim is to design and simulate a full custom 2:1 multiplexer (MUX) using Cade
 
 
 ## Output
-![image](https://github.com/user-attachments/assets/be4786c3-944c-4a32-8520-b04723658f06)
+![Screenshot 2025-03-22 144319](https://github.com/user-attachments/assets/14e99398-b37a-4d77-8722-5802251c1fc0)
 
 
 
